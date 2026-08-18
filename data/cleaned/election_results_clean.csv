@@ -1,0 +1,1030 @@
+year,county_name,contest_type,district_number,contest_title,result_type,party,candidate,total_votes,source_file
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,19838,2020-General-Autauga.xls
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,350,2020-General-Autauga.xls
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,7503,2020-General-Autauga.xls
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,30,2020-General-Autauga.xls
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,57,2020-General-Autauga.xls
+2020,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,79,2020-General-Autauga.xls
+2020,Autauga,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,20081,2020-General-Autauga.xls
+2020,Autauga,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,7357,2020-General-Autauga.xls
+2020,Autauga,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,15,2020-General-Autauga.xls
+2020,Autauga,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,356,2020-General-Autauga.xls
+2020,Autauga,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,39,2020-General-Autauga.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,7525,2020-General-Bibb.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,74,2020-General-Bibb.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1986,2020-General-Bibb.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,15,2020-General-Bibb.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,20,2020-General-Bibb.xls
+2020,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,10,2020-General-Bibb.xls
+2020,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,7744,2020-General-Bibb.xls
+2020,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2020-General-Bibb.xls
+2020,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1787,2020-General-Bibb.xls
+2020,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,93,2020-General-Bibb.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,24711,2020-General-Blount.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,209,2020-General-Blount.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,2640,2020-General-Blount.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,32,2020-General-Blount.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,43,2020-General-Blount.xls
+2020,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,28,2020-General-Blount.xls
+2020,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,189,2020-General-Blount.xls
+2020,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,1930,2020-General-Blount.xls
+2020,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2020-General-Blount.xls
+2020,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,38,2020-General-Blount.xls
+2020,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,3,2020-General-Blount.xls
+2020,Blount,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,22877,2020-General-Blount.xls
+2020,Blount,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2020-General-Blount.xls
+2020,Blount,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,2465,2020-General-Blount.xls
+2020,Blount,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,146,2020-General-Blount.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,35101,2020-General-Calhoun.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,553,2020-General-Calhoun.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,15216,2020-General-Calhoun.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,73,2020-General-Calhoun.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,89,2020-General-Calhoun.xls
+2020,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,113,2020-General-Calhoun.xls
+2020,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,14389,2020-General-Calhoun.xls
+2020,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,36137,2020-General-Calhoun.xls
+2020,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,40,2020-General-Calhoun.xls
+2020,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,533,2020-General-Calhoun.xls
+2020,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,46,2020-General-Calhoun.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,8753,2020-General-Chambers.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,141,2020-General-Chambers.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,6365,2020-General-Chambers.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,20,2020-General-Chambers.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,28,2020-General-Chambers.xls
+2020,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,25,2020-General-Chambers.xls
+2020,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,6091,2020-General-Chambers.xls
+2020,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,8989,2020-General-Chambers.xls
+2020,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,14,2020-General-Chambers.xls
+2020,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,228,2020-General-Chambers.xls
+2020,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,10,2020-General-Chambers.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10583,2020-General-Cherokee.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,82,2020-General-Cherokee.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1624,2020-General-Cherokee.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,25,2020-General-Cherokee.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,20,2020-General-Cherokee.xls
+2020,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,12,2020-General-Cherokee.xls
+2020,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,1399,2020-General-Cherokee.xls
+2020,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,9964,2020-General-Cherokee.xls
+2020,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2020-General-Cherokee.xls
+2020,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,166,2020-General-Cherokee.xls
+2020,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,3,2020-General-Cherokee.xls
+2020,Cherokee,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,96,2020-General-Cherokee.xls
+2020,Cherokee,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,705,2020-General-Cherokee.xls
+2020,Cherokee,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2020-General-Cherokee.xls
+2020,Cherokee,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,7,2020-General-Cherokee.xls
+2020,Cherokee,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,0,2020-General-Cherokee.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,16085,2020-General-Chilton.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,123,2020-General-Chilton.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,3073,2020-General-Chilton.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,18,2020-General-Chilton.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,38,2020-General-Chilton.xls
+2020,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,29,2020-General-Chilton.xls
+2020,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,16111,2020-General-Chilton.xls
+2020,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2020-General-Chilton.xls
+2020,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,3138,2020-General-Chilton.xls
+2020,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,117,2020-General-Chilton.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,5601,2020-General-Clay.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,53,2020-General-Clay.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1267,2020-General-Clay.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,10,2020-General-Clay.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,16,2020-General-Clay.xls
+2020,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,9,2020-General-Clay.xls
+2020,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,1148,2020-General-Clay.xls
+2020,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,5710,2020-General-Clay.xls
+2020,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2020-General-Clay.xls
+2020,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,94,2020-General-Clay.xls
+2020,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,4,2020-General-Clay.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6484,2020-General-Cleburne.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,60,2020-General-Cleburne.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,675,2020-General-Cleburne.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,18,2020-General-Cleburne.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,10,2020-General-Cleburne.xls
+2020,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,8,2020-General-Cleburne.xls
+2020,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,645,2020-General-Cleburne.xls
+2020,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,6491,2020-General-Cleburne.xls
+2020,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2020-General-Cleburne.xls
+2020,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,113,2020-General-Cleburne.xls
+2020,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,4,2020-General-Cleburne.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,16899,2020-General-Coffee.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,264,2020-General-Coffee.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,5076,2020-General-Coffee.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,21,2020-General-Coffee.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,43,2020-General-Coffee.xls
+2020,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,36,2020-General-Coffee.xls
+2020,Coffee,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,17211,2020-General-Coffee.xls
+2020,Coffee,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,4875,2020-General-Coffee.xls
+2020,Coffee,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,11,2020-General-Coffee.xls
+2020,Coffee,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,223,2020-General-Coffee.xls
+2020,Coffee,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,15,2020-General-Coffee.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,19203,2020-General-Colbert.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,272,2020-General-Colbert.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,8343,2020-General-Colbert.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,38,2020-General-Colbert.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,60,2020-General-Colbert.xls
+2020,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,68,2020-General-Colbert.xls
+2020,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,8143,2020-General-Colbert.xls
+2020,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,19326,2020-General-Colbert.xls
+2020,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,18,2020-General-Colbert.xls
+2020,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,480,2020-General-Colbert.xls
+2020,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,17,2020-General-Colbert.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,3631,2020-General-Coosa.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,46,2020-General-Coosa.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1796,2020-General-Coosa.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,2,2020-General-Coosa.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,13,2020-General-Coosa.xls
+2020,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,6,2020-General-Coosa.xls
+2020,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,3774,2020-General-Coosa.xls
+2020,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2020-General-Coosa.xls
+2020,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1655,2020-General-Coosa.xls
+2020,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,61,2020-General-Coosa.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14586,2020-General-Covington.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,97,2020-General-Covington.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,2721,2020-General-Covington.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,29,2020-General-Covington.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,32,2020-General-Covington.xls
+2020,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,26,2020-General-Covington.xls
+2020,Covington,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,14437,2020-General-Covington.xls
+2020,Covington,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,2708,2020-General-Covington.xls
+2020,Covington,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,9,2020-General-Covington.xls
+2020,Covington,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,330,2020-General-Covington.xls
+2020,Covington,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,7,2020-General-Covington.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,36880,2020-General-Cullman.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,418,2020-General-Cullman.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,4478,2020-General-Cullman.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,62,2020-General-Cullman.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,70,2020-General-Cullman.xls
+2020,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,75,2020-General-Cullman.xls
+2020,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,4359,2020-General-Cullman.xls
+2020,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,37133,2020-General-Cullman.xls
+2020,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,6,2020-General-Cullman.xls
+2020,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,457,2020-General-Cullman.xls
+2020,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,30,2020-General-Cullman.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14303,2020-General-Dale.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,233,2020-General-Dale.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,5170,2020-General-Dale.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,45,2020-General-Dale.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,31,2020-General-Dale.xls
+2020,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,32,2020-General-Dale.xls
+2020,Dale,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,14361,2020-General-Dale.xls
+2020,Dale,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,5114,2020-General-Dale.xls
+2020,Dale,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,26,2020-General-Dale.xls
+2020,Dale,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,288,2020-General-Dale.xls
+2020,Dale,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,19,2020-General-Dale.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,24767,2020-General-DeKalb.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,250,2020-General-DeKalb.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,4281,2020-General-DeKalb.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,35,2020-General-DeKalb.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,60,2020-General-DeKalb.xls
+2020,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,58,2020-General-DeKalb.xls
+2020,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,4453,2020-General-DeKalb.xls
+2020,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,24460,2020-General-DeKalb.xls
+2020,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,6,2020-General-DeKalb.xls
+2020,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,497,2020-General-DeKalb.xls
+2020,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,33,2020-General-DeKalb.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,30164,2020-General-Elmore.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,398,2020-General-Elmore.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,10367,2020-General-Elmore.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,30,2020-General-Elmore.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,86,2020-General-Elmore.xls
+2020,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,101,2020-General-Elmore.xls
+2020,Elmore,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,30572,2020-General-Elmore.xls
+2020,Elmore,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,10029,2020-General-Elmore.xls
+2020,Elmore,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,13,2020-General-Elmore.xls
+2020,Elmore,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,505,2020-General-Elmore.xls
+2020,Elmore,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,25,2020-General-Elmore.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,35528,2020-General-Etowah.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,531,2020-General-Etowah.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,11567,2020-General-Etowah.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,62,2020-General-Etowah.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,81,2020-General-Etowah.xls
+2020,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,102,2020-General-Etowah.xls
+2020,Etowah,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,11369,2020-General-Etowah.xls
+2020,Etowah,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,35914,2020-General-Etowah.xls
+2020,Etowah,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,39,2020-General-Etowah.xls
+2020,Etowah,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,500,2020-General-Etowah.xls
+2020,Etowah,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,46,2020-General-Etowah.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,7300,2020-General-Fayette.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,56,2020-General-Fayette.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1395,2020-General-Fayette.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,25,2020-General-Fayette.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,24,2020-General-Fayette.xls
+2020,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,15,2020-General-Fayette.xls
+2020,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,1360,2020-General-Fayette.xls
+2020,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,7302,2020-General-Fayette.xls
+2020,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2020-General-Fayette.xls
+2020,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,144,2020-General-Fayette.xls
+2020,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,4,2020-General-Fayette.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10376,2020-General-Franklin.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,106,2020-General-Franklin.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,2086,2020-General-Franklin.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,22,2020-General-Franklin.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,65,2020-General-Franklin.xls
+2020,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,10,2020-General-Franklin.xls
+2020,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,2127,2020-General-Franklin.xls
+2020,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,10253,2020-General-Franklin.xls
+2020,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2020-General-Franklin.xls
+2020,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,277,2020-General-Franklin.xls
+2020,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,6,2020-General-Franklin.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10848,2020-General-Geneva.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,90,2020-General-Geneva.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1595,2020-General-Geneva.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,17,2020-General-Geneva.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,26,2020-General-Geneva.xls
+2020,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,12,2020-General-Geneva.xls
+2020,Geneva,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,10837,2020-General-Geneva.xls
+2020,Geneva,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,1599,2020-General-Geneva.xls
+2020,Geneva,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,6,2020-General-Geneva.xls
+2020,Geneva,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,137,2020-General-Geneva.xls
+2020,Geneva,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,9,2020-General-Geneva.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6607,2020-General-Henry.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,69,2020-General-Henry.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,2606,2020-General-Henry.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,15,2020-General-Henry.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,25,2020-General-Henry.xls
+2020,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,16,2020-General-Henry.xls
+2020,Henry,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,6624,2020-General-Henry.xls
+2020,Henry,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,2527,2020-General-Henry.xls
+2020,Henry,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2020-General-Henry.xls
+2020,Henry,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,179,2020-General-Henry.xls
+2020,Henry,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,6,2020-General-Henry.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,32618,2020-General-Houston.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,533,2020-General-Houston.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,12917,2020-General-Houston.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,63,2020-General-Houston.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,69,2020-General-Houston.xls
+2020,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,105,2020-General-Houston.xls
+2020,Houston,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,32937,2020-General-Houston.xls
+2020,Houston,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",candidate,DEM,Phyllis Harvey-Hall,12748,2020-General-Houston.xls
+2020,Houston,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",overvote,,Over Votes,42,2020-General-Houston.xls
+2020,Houston,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",undervote,,Under Votes,522,2020-General-Houston.xls
+2020,Houston,us_house,2,"UNITED STATES REPRESENTATIVE, 2ND CONGRESSIONAL DISTRICT",write_in,NON,Write-In,55,2020-General-Houston.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,19670,2020-General-Jackson.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,208,2020-General-Jackson.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,3717,2020-General-Jackson.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,25,2020-General-Jackson.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,68,2020-General-Jackson.xls
+2020,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,41,2020-General-Jackson.xls
+2020,Jackson,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,8,2020-General-Jackson.xls
+2020,Jackson,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,80,2020-General-Jackson.xls
+2020,Jackson,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2020-General-Jackson.xls
+2020,Jackson,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,2,2020-General-Jackson.xls
+2020,Jackson,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,0,2020-General-Jackson.xls
+2020,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Mo Brooks,19420,2020-General-Jackson.xls
+2020,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2020-General-Jackson.xls
+2020,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,4001,2020-General-Jackson.xls
+2020,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,205,2020-General-Jackson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,138843,2020-General-Jefferson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,3578,2020-General-Jefferson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,181688,2020-General-Jefferson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,275,2020-General-Jefferson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,886,2020-General-Jefferson.xls
+2020,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,1739,2020-General-Jefferson.xls
+2020,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,135207,2020-General-Jefferson.xls
+2020,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,38,2020-General-Jefferson.xls
+2020,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,57275,2020-General-Jefferson.xls
+2020,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,5361,2020-General-Jefferson.xls
+2020,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,110212,2020-General-Jefferson.xls
+2020,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,45,2020-General-Jefferson.xls
+2020,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,17399,2020-General-Jefferson.xls
+2020,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1110,2020-General-Jefferson.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6174,2020-General-Lamar.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,33,2020-General-Lamar.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,978,2020-General-Lamar.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,2,2020-General-Lamar.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,16,2020-General-Lamar.xls
+2020,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,8,2020-General-Lamar.xls
+2020,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,943,2020-General-Lamar.xls
+2020,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,6168,2020-General-Lamar.xls
+2020,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2020-General-Lamar.xls
+2020,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,100,2020-General-Lamar.xls
+2020,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1,2020-General-Lamar.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,31721,2020-General-Lauderdale.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,537,2020-General-Lauderdale.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,11915,2020-General-Lauderdale.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,40,2020-General-Lauderdale.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,131,2020-General-Lauderdale.xls
+2020,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,166,2020-General-Lauderdale.xls
+2020,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Mo Brooks,33023,2020-General-Lauderdale.xls
+2020,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,6,2020-General-Lauderdale.xls
+2020,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,10574,2020-General-Lauderdale.xls
+2020,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,907,2020-General-Lauderdale.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,12322,2020-General-Lawrence.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,126,2020-General-Lawrence.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,3562,2020-General-Lawrence.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,14,2020-General-Lawrence.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,56,2020-General-Lawrence.xls
+2020,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,21,2020-General-Lawrence.xls
+2020,Lawrence,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,3471,2020-General-Lawrence.xls
+2020,Lawrence,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,12287,2020-General-Lawrence.xls
+2020,Lawrence,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,7,2020-General-Lawrence.xls
+2020,Lawrence,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,326,2020-General-Lawrence.xls
+2020,Lawrence,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,10,2020-General-Lawrence.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,42221,2020-General-Lee.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,1019,2020-General-Lee.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,27860,2020-General-Lee.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,52,2020-General-Lee.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,124,2020-General-Lee.xls
+2020,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,349,2020-General-Lee.xls
+2020,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,26320,2020-General-Lee.xls
+2020,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,44235,2020-General-Lee.xls
+2020,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,43,2020-General-Lee.xls
+2020,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,942,2020-General-Lee.xls
+2020,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,82,2020-General-Lee.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,34640,2020-General-Limestone.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,748,2020-General-Limestone.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,13672,2020-General-Limestone.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,57,2020-General-Limestone.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,91,2020-General-Limestone.xls
+2020,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,175,2020-General-Limestone.xls
+2020,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Mo Brooks,37371,2020-General-Limestone.xls
+2020,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,4,2020-General-Limestone.xls
+2020,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,10720,2020-General-Limestone.xls
+2020,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1288,2020-General-Limestone.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,102780,2020-General-Madison.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,3699,2020-General-Madison.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,87286,2020-General-Madison.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,122,2020-General-Madison.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,485,2020-General-Madison.xls
+2020,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,1002,2020-General-Madison.xls
+2020,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Mo Brooks,121634,2020-General-Madison.xls
+2020,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,23,2020-General-Madison.xls
+2020,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,65297,2020-General-Madison.xls
+2020,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,7866,2020-General-Madison.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,12205,2020-General-Marion.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,115,2020-General-Marion.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,1463,2020-General-Marion.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,18,2020-General-Marion.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,30,2020-General-Marion.xls
+2020,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,24,2020-General-Marion.xls
+2020,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,1462,2020-General-Marion.xls
+2020,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,12246,2020-General-Marion.xls
+2020,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2020-General-Marion.xls
+2020,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,135,2020-General-Marion.xls
+2020,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,9,2020-General-Marion.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,33191,2020-General-Marshall.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,435,2020-General-Marshall.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,5943,2020-General-Marshall.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,35,2020-General-Marshall.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,61,2020-General-Marshall.xls
+2020,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,86,2020-General-Marshall.xls
+2020,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,5642,2020-General-Marshall.xls
+2020,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,33574,2020-General-Marshall.xls
+2020,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,13,2020-General-Marshall.xls
+2020,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,491,2020-General-Marshall.xls
+2020,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,27,2020-General-Marshall.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,39664,2020-General-Morgan.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,705,2020-General-Morgan.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,13234,2020-General-Morgan.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,67,2020-General-Morgan.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,116,2020-General-Morgan.xls
+2020,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,119,2020-General-Morgan.xls
+2020,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Mo Brooks,41646,2020-General-Morgan.xls
+2020,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,10,2020-General-Morgan.xls
+2020,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,11389,2020-General-Morgan.xls
+2020,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,800,2020-General-Morgan.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,5594,2020-General-Pickens.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,40,2020-General-Pickens.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,4022,2020-General-Pickens.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,10,2020-General-Pickens.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,23,2020-General-Pickens.xls
+2020,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,12,2020-General-Pickens.xls
+2020,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,5070,2020-General-Pickens.xls
+2020,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,4,2020-General-Pickens.xls
+2020,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,4285,2020-General-Pickens.xls
+2020,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,339,2020-General-Pickens.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump Michael R. Penc,8559,2020-General-Randolph.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,"Jo Jorgensen Jeremy ""Spike"" Coh",61,2020-General-Randolph.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden Kamala D. Harri,2203,2020-General-Randolph.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,14,2020-General-Randolph.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,22,2020-General-Randolph.xls
+2020,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,14,2020-General-Randolph.xls
+2020,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,2134,2020-General-Randolph.xls
+2020,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,8516,2020-General-Randolph.xls
+2020,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,9,2020-General-Randolph.xls
+2020,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,201,2020-General-Randolph.xls
+2020,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,12,2020-General-Randolph.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,79700,2020-General-Shelby.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,1462,2020-General-Shelby.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,33268,2020-General-Shelby.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,67,2020-General-Shelby.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,248,2020-General-Shelby.xls
+2020,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,520,2020-General-Shelby.xls
+2020,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,88447,2020-General-Shelby.xls
+2020,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,19,2020-General-Shelby.xls
+2020,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,24499,2020-General-Shelby.xls
+2020,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,2323,2020-General-Shelby.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,36166,2020-General-StClair.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,446,2020-General-StClair.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,7744,2020-General-StClair.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,44,2020-General-StClair.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,66,2020-General-StClair.xls
+2020,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,85,2020-General-StClair.xls
+2020,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,7451,2020-General-StClair.xls
+2020,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,36478,2020-General-StClair.xls
+2020,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,24,2020-General-StClair.xls
+2020,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,576,2020-General-StClair.xls
+2020,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,22,2020-General-StClair.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,22235,2020-General-Talladega.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,247,2020-General-Talladega.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,13138,2020-General-Talladega.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,62,2020-General-Talladega.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,54,2020-General-Talladega.xls
+2020,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,43,2020-General-Talladega.xls
+2020,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,12709,2020-General-Talladega.xls
+2020,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,22727,2020-General-Talladega.xls
+2020,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,28,2020-General-Talladega.xls
+2020,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,294,2020-General-Talladega.xls
+2020,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,21,2020-General-Talladega.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14963,2020-General-Tallapoosa.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,130,2020-General-Tallapoosa.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,5859,2020-General-Tallapoosa.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,23,2020-General-Tallapoosa.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,53,2020-General-Tallapoosa.xls
+2020,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,39,2020-General-Tallapoosa.xls
+2020,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,DEM,Adia Winfrey,5552,2020-General-Tallapoosa.xls
+2020,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,15213,2020-General-Tallapoosa.xls
+2020,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,7,2020-General-Tallapoosa.xls
+2020,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,282,2020-General-Tallapoosa.xls
+2020,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,11,2020-General-Tallapoosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,51117,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,927,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,37765,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,95,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,154,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,363,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,6877,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,23835,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,4,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,484,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,22,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,35642,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,22,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,21314,2020-General-Tuscaloosa.xls
+2020,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,2279,2020-General-Tuscaloosa.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,26002,2020-General-Walker.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,277,2020-General-Walker.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,4834,2020-General-Walker.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,43,2020-General-Walker.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,54,2020-General-Walker.xls
+2020,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,57,2020-General-Walker.xls
+2020,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,4755,2020-General-Walker.xls
+2020,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,26147,2020-General-Walker.xls
+2020,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,9,2020-General-Walker.xls
+2020,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,354,2020-General-Walker.xls
+2020,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,17,2020-General-Walker.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10195,2020-General-Winston.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jo Jorgensen,102,2020-General-Winston.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Joseph R. Biden,974,2020-General-Winston.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,13,2020-General-Winston.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,16,2020-General-Winston.xls
+2020,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,13,2020-General-Winston.xls
+2020,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,DEM,Rick Neighbors,983,2020-General-Winston.xls
+2020,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert Aderholt,10193,2020-General-Winston.xls
+2020,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2020-General-Winston.xls
+2020,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,121,2020-General-Winston.xls
+2020,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,14,2020-General-Winston.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,65,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,20484,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,48,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,7439,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,154,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,46,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,95,2024-General-Autauga.xls
+2024,Autauga,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,91,2024-General-Autauga.xls
+2024,Autauga,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,7432,2024-General-Autauga.xls
+2024,Autauga,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,20386,2024-General-Autauga.xls
+2024,Autauga,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2024-General-Autauga.xls
+2024,Autauga,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,565,2024-General-Autauga.xls
+2024,Autauga,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,34,2024-General-Autauga.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,11,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,7572,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,4,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1619,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,35,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,9,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,12,2024-General-Bibb.xls
+2024,Bibb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,16,2024-General-Bibb.xls
+2024,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,1654,2024-General-Bibb.xls
+2024,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,7486,2024-General-Bibb.xls
+2024,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2024-General-Bibb.xls
+2024,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,123,2024-General-Bibb.xls
+2024,Bibb,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,10,2024-General-Bibb.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,33,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,25354,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,39,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,2576,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,113,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,37,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,29,2024-General-Blount.xls
+2024,Blount,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,48,2024-General-Blount.xls
+2024,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,25499,2024-General-Blount.xls
+2024,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Blount.xls
+2024,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,2546,2024-General-Blount.xls
+2024,Blount,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,176,2024-General-Blount.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,67,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,34912,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,84,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,13194,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,273,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,102,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,64,2024-General-Calhoun.xls
+2024,Calhoun,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,123,2024-General-Calhoun.xls
+2024,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,37429,2024-General-Calhoun.xls
+2024,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,7,2024-General-Calhoun.xls
+2024,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,10318,2024-General-Calhoun.xls
+2024,Calhoun,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1065,2024-General-Calhoun.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,28,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,8711,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,14,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,5405,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,63,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,36,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,29,2024-General-Chambers.xls
+2024,Chambers,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,24,2024-General-Chambers.xls
+2024,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,9695,2024-General-Chambers.xls
+2024,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Chambers.xls
+2024,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,4418,2024-General-Chambers.xls
+2024,Chambers,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,203,2024-General-Chambers.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,16,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,11358,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,14,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1553,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,43,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,28,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,19,2024-General-Cherokee.xls
+2024,Cherokee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,22,2024-General-Cherokee.xls
+2024,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,11435,2024-General-Cherokee.xls
+2024,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Cherokee.xls
+2024,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,1536,2024-General-Cherokee.xls
+2024,Cherokee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,78,2024-General-Cherokee.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,23,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,16920,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,16,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,2698,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,71,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,15,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,46,2024-General-Chilton.xls
+2024,Chilton,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,35,2024-General-Chilton.xls
+2024,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,2695,2024-General-Chilton.xls
+2024,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,16606,2024-General-Chilton.xls
+2024,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Chilton.xls
+2024,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,503,2024-General-Chilton.xls
+2024,Chilton,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,20,2024-General-Chilton.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,10,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,5734,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,4,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,993,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,16,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,9,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,11,2024-General-Clay.xls
+2024,Clay,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,10,2024-General-Clay.xls
+2024,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,5830,2024-General-Clay.xls
+2024,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Clay.xls
+2024,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,905,2024-General-Clay.xls
+2024,Clay,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,47,2024-General-Clay.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,13,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6988,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,3,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,605,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,28,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,28,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,10,2024-General-Cleburne.xls
+2024,Cleburne,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,14,2024-General-Cleburne.xls
+2024,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,6979,2024-General-Cleburne.xls
+2024,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Cleburne.xls
+2024,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,667,2024-General-Cleburne.xls
+2024,Cleburne,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,42,2024-General-Cleburne.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,36,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,17495,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,28,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,4601,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,110,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,23,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,25,2024-General-Coffee.xls
+2024,Coffee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,49,2024-General-Coffee.xls
+2024,Coffee,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,17668,2024-General-Coffee.xls
+2024,Coffee,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,4446,2024-General-Coffee.xls
+2024,Coffee,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Coffee.xls
+2024,Coffee,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,226,2024-General-Coffee.xls
+2024,Coffee,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,23,2024-General-Coffee.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,39,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,19714,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,38,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,7137,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,158,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,31,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,49,2024-General-Colbert.xls
+2024,Colbert,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,74,2024-General-Colbert.xls
+2024,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,20595,2024-General-Colbert.xls
+2024,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Colbert.xls
+2024,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,6283,2024-General-Colbert.xls
+2024,Colbert,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,331,2024-General-Colbert.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,6,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,3758,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,1,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1478,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,21,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,1,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,7,2024-General-Coosa.xls
+2024,Coosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,4,2024-General-Coosa.xls
+2024,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,1461,2024-General-Coosa.xls
+2024,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,3735,2024-General-Coosa.xls
+2024,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Coosa.xls
+2024,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,76,2024-General-Coosa.xls
+2024,Coosa,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,3,2024-General-Coosa.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,17,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14677,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,13,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,2314,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,51,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,26,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,30,2024-General-Covington.xls
+2024,Covington,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,23,2024-General-Covington.xls
+2024,Covington,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,14504,2024-General-Covington.xls
+2024,Covington,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,2335,2024-General-Covington.xls
+2024,Covington,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,10,2024-General-Covington.xls
+2024,Covington,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,292,2024-General-Covington.xls
+2024,Covington,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,4,2024-General-Covington.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,81,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,38704,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,25,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,4039,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,203,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,79,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,86,2024-General-Cullman.xls
+2024,Cullman,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,94,2024-General-Cullman.xls
+2024,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,39110,2024-General-Cullman.xls
+2024,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2024-General-Cullman.xls
+2024,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,3879,2024-General-Cullman.xls
+2024,Cullman,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,319,2024-General-Cullman.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,28,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14476,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,30,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,4484,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,85,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,56,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,25,2024-General-Dale.xls
+2024,Dale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,36,2024-General-Dale.xls
+2024,Dale,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,14546,2024-General-Dale.xls
+2024,Dale,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,4384,2024-General-Dale.xls
+2024,Dale,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,17,2024-General-Dale.xls
+2024,Dale,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,255,2024-General-Dale.xls
+2024,Dale,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,17,2024-General-Dale.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,40,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,25633,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,32,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,3758,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,120,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,50,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,49,2024-General-DeKalb.xls
+2024,DeKalb,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,77,2024-General-DeKalb.xls
+2024,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,25753,2024-General-DeKalb.xls
+2024,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,4,2024-General-DeKalb.xls
+2024,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,3718,2024-General-DeKalb.xls
+2024,DeKalb,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,284,2024-General-DeKalb.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,75,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,31374,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,46,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,9774,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,222,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,55,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,87,2024-General-Elmore.xls
+2024,Elmore,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,133,2024-General-Elmore.xls
+2024,Elmore,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,9672,2024-General-Elmore.xls
+2024,Elmore,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,31355,2024-General-Elmore.xls
+2024,Elmore,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,11,2024-General-Elmore.xls
+2024,Elmore,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,698,2024-General-Elmore.xls
+2024,Elmore,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,28,2024-General-Elmore.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,75,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,35653,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,70,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,10027,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,198,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,88,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,56,2024-General-Etowah.xls
+2024,Etowah,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,114,2024-General-Etowah.xls
+2024,Etowah,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,36720,2024-General-Etowah.xls
+2024,Etowah,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2024-General-Etowah.xls
+2024,Etowah,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,9021,2024-General-Etowah.xls
+2024,Etowah,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,537,2024-General-Etowah.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,4,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,7158,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,13,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1142,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,39,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,15,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,22,2024-General-Fayette.xls
+2024,Fayette,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,13,2024-General-Fayette.xls
+2024,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,7245,2024-General-Fayette.xls
+2024,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Fayette.xls
+2024,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1109,2024-General-Fayette.xls
+2024,Fayette,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,51,2024-General-Fayette.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,16,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10417,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,12,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1568,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,64,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,20,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,41,2024-General-Franklin.xls
+2024,Franklin,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,20,2024-General-Franklin.xls
+2024,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,10496,2024-General-Franklin.xls
+2024,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Franklin.xls
+2024,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1578,2024-General-Franklin.xls
+2024,Franklin,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,80,2024-General-Franklin.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,18,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10929,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,7,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1391,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,45,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,22,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,6,2024-General-Geneva.xls
+2024,Geneva,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,11,2024-General-Geneva.xls
+2024,Geneva,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,10917,2024-General-Geneva.xls
+2024,Geneva,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,1373,2024-General-Geneva.xls
+2024,Geneva,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Geneva.xls
+2024,Geneva,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,134,2024-General-Geneva.xls
+2024,Geneva,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,4,2024-General-Geneva.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,9,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6989,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,7,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,2263,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,33,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,18,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,17,2024-General-Henry.xls
+2024,Henry,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,19,2024-General-Henry.xls
+2024,Henry,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,7061,2024-General-Henry.xls
+2024,Henry,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,2134,2024-General-Henry.xls
+2024,Henry,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2024-General-Henry.xls
+2024,Henry,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,150,2024-General-Henry.xls
+2024,Henry,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,5,2024-General-Henry.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,86,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,32469,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,67,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,11352,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,221,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,100,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,104,2024-General-Houston.xls
+2024,Houston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,154,2024-General-Houston.xls
+2024,Houston,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,REP,Barry Moore,32974,2024-General-Houston.xls
+2024,Houston,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",candidate,DEM,Tom Holmes,10963,2024-General-Houston.xls
+2024,Houston,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",overvote,,Over Votes,15,2024-General-Houston.xls
+2024,Houston,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",undervote,,Under Votes,548,2024-General-Houston.xls
+2024,Houston,us_house,1,"UNITED STATES REPRESENTATIVE, 1ST CONGRESSIONAL DISTRICT",write_in,NON,Write-In,50,2024-General-Houston.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,31,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,20073,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,18,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,3276,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,111,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,31,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,51,2024-General-Jackson.xls
+2024,Jackson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,47,2024-General-Jackson.xls
+2024,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,20055,2024-General-Jackson.xls
+2024,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Jackson.xls
+2024,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,3404,2024-General-Jackson.xls
+2024,Jackson,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,178,2024-General-Jackson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,731,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,131123,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,994,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,162112,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,1781,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,353,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,772,2024-General-Jefferson.xls
+2024,Jefferson,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,1963,2024-General-Jefferson.xls
+2024,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,46794,2024-General-Jefferson.xls
+2024,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,82326,2024-General-Jefferson.xls
+2024,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,29,2024-General-Jefferson.xls
+2024,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1870,2024-General-Jefferson.xls
+2024,Jefferson,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,140,2024-General-Jefferson.xls
+2024,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,REP,Robin Litaker,50213,2024-General-Jefferson.xls
+2024,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,116527,2024-General-Jefferson.xls
+2024,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,45,2024-General-Jefferson.xls
+2024,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1778,2024-General-Jefferson.xls
+2024,Jefferson,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,118,2024-General-Jefferson.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,4,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,6033,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,7,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,806,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,25,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,20,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,13,2024-General-Lamar.xls
+2024,Lamar,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,15,2024-General-Lamar.xls
+2024,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,6037,2024-General-Lamar.xls
+2024,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Lamar.xls
+2024,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,855,2024-General-Lamar.xls
+2024,Lamar,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,30,2024-General-Lamar.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,90,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,32708,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,65,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,10326,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,265,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,74,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,105,2024-General-Lauderdale.xls
+2024,Lauderdale,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,183,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,26275,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,7735,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,532,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,7891,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1295,2024-General-Lauderdale.xls
+2024,Lauderdale,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,86,2024-General-Lauderdale.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,18,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,13024,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,12,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,2983,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,78,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,25,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,26,2024-General-Lawrence.xls
+2024,Lawrence,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,7,2024-General-Lawrence.xls
+2024,Lawrence,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,12992,2024-General-Lawrence.xls
+2024,Lawrence,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Lawrence.xls
+2024,Lawrence,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,3052,2024-General-Lawrence.xls
+2024,Lawrence,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,127,2024-General-Lawrence.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,250,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,46020,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,159,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,25798,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,468,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,64,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,160,2024-General-Lee.xls
+2024,Lee,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,432,2024-General-Lee.xls
+2024,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,51769,2024-General-Lee.xls
+2024,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2024-General-Lee.xls
+2024,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,19678,2024-General-Lee.xls
+2024,Lee,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1849,2024-General-Lee.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,173,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,37887,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,111,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,14581,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,344,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,60,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,108,2024-General-Limestone.xls
+2024,Limestone,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,236,2024-General-Limestone.xls
+2024,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,40891,2024-General-Limestone.xls
+2024,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2024-General-Limestone.xls
+2024,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,11204,2024-General-Limestone.xls
+2024,Limestone,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1403,2024-General-Limestone.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,931,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,105430,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,676,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,87824,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,1494,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,124,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,575,2024-General-Madison.xls
+2024,Madison,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,1262,2024-General-Madison.xls
+2024,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,126175,2024-General-Madison.xls
+2024,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,7,2024-General-Madison.xls
+2024,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,62402,2024-General-Madison.xls
+2024,Madison,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,9464,2024-General-Madison.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,9,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,12245,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,9,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1197,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,63,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,31,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,21,2024-General-Marion.xls
+2024,Marion,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,20,2024-General-Marion.xls
+2024,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,12275,2024-General-Marion.xls
+2024,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Marion.xls
+2024,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1231,2024-General-Marion.xls
+2024,Marion,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,87,2024-General-Marion.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,57,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,34434,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,37,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,5553,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,196,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,49,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,62,2024-General-Marshall.xls
+2024,Marshall,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,111,2024-General-Marshall.xls
+2024,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,35330,2024-General-Marshall.xls
+2024,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2024-General-Marshall.xls
+2024,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,4737,2024-General-Marshall.xls
+2024,Marshall,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,429,2024-General-Marshall.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,152,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,40449,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,67,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,12392,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,309,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,87,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,98,2024-General-Morgan.xls
+2024,Morgan,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,174,2024-General-Morgan.xls
+2024,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",candidate,REP,Dale Strong,42318,2024-General-Morgan.xls
+2024,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,4,2024-General-Morgan.xls
+2024,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,10575,2024-General-Morgan.xls
+2024,Morgan,us_house,5,"UNITED STATES REPRESENTATIVE, 5TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,830,2024-General-Morgan.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,11,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,5465,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,7,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,3388,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,27,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,19,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,14,2024-General-Pickens.xls
+2024,Pickens,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,14,2024-General-Pickens.xls
+2024,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,REP,Robin Litaker,5261,2024-General-Pickens.xls
+2024,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,3583,2024-General-Pickens.xls
+2024,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,5,2024-General-Pickens.xls
+2024,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,94,2024-General-Pickens.xls
+2024,Pickens,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,1,2024-General-Pickens.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,8,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,9102,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,11,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,1920,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,34,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,33,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,15,2024-General-Randolph.xls
+2024,Randolph,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,16,2024-General-Randolph.xls
+2024,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,9192,2024-General-Randolph.xls
+2024,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2024-General-Randolph.xls
+2024,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,1842,2024-General-Randolph.xls
+2024,Randolph,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,101,2024-General-Randolph.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,326,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,79666,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,315,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,33087,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,649,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,112,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,283,2024-General-Shelby.xls
+2024,Shelby,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,655,2024-General-Shelby.xls
+2024,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,32665,2024-General-Shelby.xls
+2024,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,80925,2024-General-Shelby.xls
+2024,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,31,2024-General-Shelby.xls
+2024,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,1327,2024-General-Shelby.xls
+2024,Shelby,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,143,2024-General-Shelby.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,71,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,35501,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,48,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,7640,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,180,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,48,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,66,2024-General-StClair.xls
+2024,St. Clair,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,86,2024-General-StClair.xls
+2024,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,36641,2024-General-StClair.xls
+2024,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,8,2024-General-StClair.xls
+2024,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,6440,2024-General-StClair.xls
+2024,St. Clair,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,543,2024-General-StClair.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,41,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,22100,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,32,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,10898,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,104,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,48,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,29,2024-General-Talladega.xls
+2024,Talladega,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,75,2024-General-Talladega.xls
+2024,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,22759,2024-General-Talladega.xls
+2024,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,1,2024-General-Talladega.xls
+2024,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,9023,2024-General-Talladega.xls
+2024,Talladega,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,474,2024-General-Talladega.xls
+2024,Talladega,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,DEM,Elizabeth Anderson,131,2024-General-Talladega.xls
+2024,Talladega,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",candidate,REP,Gary Palmer,922,2024-General-Talladega.xls
+2024,Talladega,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Talladega.xls
+2024,Talladega,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,15,2024-General-Talladega.xls
+2024,Talladega,us_house,6,"UNITED STATES REPRESENTATIVE, 6TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,2,2024-General-Talladega.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,31,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,14884,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,17,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,4975,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,73,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,53,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,34,2024-General-Tallapoosa.xls
+2024,Tallapoosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,43,2024-General-Tallapoosa.xls
+2024,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",candidate,REP,Mike Rogers,15399,2024-General-Tallapoosa.xls
+2024,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",overvote,,Over Votes,3,2024-General-Tallapoosa.xls
+2024,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",undervote,,Under Votes,4487,2024-General-Tallapoosa.xls
+2024,Tallapoosa,us_house,3,"UNITED STATES REPRESENTATIVE, 3RD CONGRESSIONAL DISTRICT",write_in,NON,Write-In,221,2024-General-Tallapoosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,167,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,50724,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,155,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,33399,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,434,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,102,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,151,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,377,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,29640,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,2,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,9411,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,668,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,REP,Robin Litaker,22273,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",candidate,DEM,Terri A. Sewell,22976,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,16,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,488,2024-General-Tuscaloosa.xls
+2024,Tuscaloosa,us_house,7,"UNITED STATES REPRESENTATIVE, 7TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,35,2024-General-Tuscaloosa.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,42,2024-General-Walker.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,25464,2024-General-Walker.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,20,2024-General-Walker.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,4102,2024-General-Walker.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,119,2024-General-Walker.xls
+2024,Walker,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,39,2024-General-Walker.xls
+2024,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,26026,2024-General-Walker.xls
+2024,Walker,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,297,2024-General-Walker.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Chase Oliver,10,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,REP,Donald J. Trump,10191,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Jill Stein,8,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,DEM,Kamala D. Harris,884,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,candidate,IND,Robert F. Kennedy Jr.,36,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,overvote,,Over Votes,12,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,undervote,,Under Votes,20,2024-General-Winston.xls
+2024,Winston,president,,PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES,write_in,NON,Write-In,20,2024-General-Winston.xls
+2024,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",candidate,REP,Robert B. Aderholt,10217,2024-General-Winston.xls
+2024,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",overvote,,Over Votes,0,2024-General-Winston.xls
+2024,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",undervote,,Under Votes,873,2024-General-Winston.xls
+2024,Winston,us_house,4,"UNITED STATES REPRESENTATIVE, 4TH CONGRESSIONAL DISTRICT",write_in,NON,Write-In,90,2024-General-Winston.xls
